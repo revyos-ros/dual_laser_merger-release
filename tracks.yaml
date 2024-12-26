@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/dual_laser_merger-release.git
 tracks:
   humble:
     actions:
